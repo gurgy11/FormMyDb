@@ -1,0 +1,3 @@
+graft formmydb/static
+graft formmydb/templates
+global-exclude *.pyc
